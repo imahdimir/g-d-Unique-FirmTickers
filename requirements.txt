@@ -3,4 +3,3 @@
 # Apple M1
 
 githubdata~=8.2
-mirutil~=4.5
