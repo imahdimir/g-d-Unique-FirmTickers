@@ -2,9 +2,7 @@
 
   """
 
-import json
 from pathlib import Path
-
 
 from githubdata import GitHubDataRepo
 from mirutil.ns import update_ns_module

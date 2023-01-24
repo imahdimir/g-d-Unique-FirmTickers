@@ -2,4 +2,5 @@
 # Mac OS 12.5
 # Apple M1
 
-githubdata~=8.2
+githubdata~=12.1.1
+mirutil~=21.2.0
