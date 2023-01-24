@@ -1,0 +1,27 @@
+class GDU :
+    slf = "https://github.com/imahdimir/g-d-Unique-FirmTickers"
+    srca = "https://github.com/imahdimir/d-Unique-FirmTickers"
+    srcb = "https://github.com/imahdimir/d-multi-BaseTickers-2-same-FirmTicker"
+    trg = "https://github.com/imahdimir/d-Unique-FirmTickers"
+
+class Col :
+    jd = "JDate"
+    jm = "JMonth"
+    tse_id = "TSETMC-ID"
+    btic = "BaseTicker"
+    ftic = "FirmTicker"
+    d = "Date"
+    ahi = "AdjHigh"
+    alow = "AdjLow"
+    aopen = "AdjOpen"
+    aclose = "AdjClose"
+    vol = "Volume"
+    alast = "AdjLast"
+    is_tse_open = "Is-TSE-Open"
+    wd = "WeekDay"
+    arlo = "AdjRet-SinceLastOpenDay"
+    ar1d = "AdjRet-1WorkDay"
+    ar1dlf = "AdjRet-1WorkDay-LinearFilled"
+    is_tic_open = "IsTickerOpen"
+    ind_id = "IndexID"
+

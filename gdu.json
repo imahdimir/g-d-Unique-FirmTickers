@@ -1,6 +1,6 @@
 {
-  "cur": "https://github.com/imahdimir/g-d-FirmTickers",
-  "src" : "https://github.com/imahdimir/d-FirmTickers",
-  "src0" : "https://github.com/imahdimir/d-multi-BaseTickers-2-same-FirmTicker",
-  "trg": "https://github.com/imahdimir/d-FirmTickers"
+  "slf": "https://github.com/imahdimir/g-d-Unique-FirmTickers",
+  "srca" : "https://github.com/imahdimir/d-Unique-FirmTickers",
+  "srcb" : "https://github.com/imahdimir/d-multi-BaseTickers-2-same-FirmTicker",
+  "trg": "https://github.com/imahdimir/d-Unique-FirmTickers"
 }
